@@ -1,3 +1,30 @@
 .table td {
     text-align: center;
 }
+
+.filter-box {
+    padding: 15px 0;
+}
+
+.filter-box label {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.filter-box select {
+    padding: 5px 5px 5px 15px;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+.filter-box input {
+    padding: 2px 5px 2px 15px;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+.filter-box button {
+    padding: 5px 15px 5px 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
